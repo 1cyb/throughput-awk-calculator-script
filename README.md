@@ -1,2 +1,0 @@
-# throughput-awk-calculator-script
-
